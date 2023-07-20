@@ -1,13 +1,16 @@
-
-
-<div align="center">
-  <a href="https://github.com/Bsajr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jessematheus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessematheus&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<h2 align="center"> ⚡ Status ⚡ </h2>
+<div>
+  <img width=490 src="https://streak-stats.demolab.com/?user=jessematheus&count_private=true&react&theme=react&border_radiu=10" alt="streal stats"/>
+  <img width-390 src="https://github-readme-stats-salesp07.vercel.app/api?username=jessematheus&count_private=true&show_icons=github&theme=react&rank_icon=github&border_darius=10" alt="readme stats"/>
+<br/>
+  <div align="center">
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jessematheus&hide=HTML&langs_count_8&layout=compact&theme=react&border_radius=10&size_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+  </div>
+  </div>
 
 
 <div style="display: inline_block" align="center"><br>
+  <p>⚒LINGUAGENS⚒</p>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
