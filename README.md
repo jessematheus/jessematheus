@@ -1,5 +1,5 @@
 <h2 align="center"> ⚡ Status ⚡ </h2>
-<div>
+<div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=jessematheus&count_private=true&react&theme=react&border_radiu=10" alt="streal stats"/>
   <img width=357 src="https://github-readme-stats-salesp07.vercel.app/api?username=jessematheus&count_private=true&show_icons=github&theme=react&rank_icon=github&border_darius=10" alt="readme stats"/>
 <br/>
