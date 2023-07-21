@@ -1,4 +1,16 @@
-<h2 align="center"> ⚡ Status ⚡ </h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jessematheus.jessematheus"/>
+
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duartion=4000&lines=Hello!+✌+Welcome+To+My+Profile;"/>
+</a>
+</h1>
+<h3>
+  Olá me chamo Jessé Matheus, sou formado em Analise e Desenvolvimento de Sistema, e atualmente estou buscando me qualificar e aprender coisas novas, para estar pronto para o mercado.
+<br/>Não existe aquele que saiba de tudo, mas não existe nada que quem realmente deseja não consiga aprender!
+</h3>
+
+<h2 align="center"> ⚡ My Status ⚡ </h2>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=jessematheus&count_private=true&react&theme=react&border_radiu=10" alt="streal stats"/>
   <img width=357 src="https://github-readme-stats-salesp07.vercel.app/api?username=jessematheus&count_private=true&show_icons=github&theme=react&rank_icon=github&border_darius=10" alt="readme stats"/>
