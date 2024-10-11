@@ -34,6 +34,5 @@
 <div style="display: inline_block" align="center">  
   <a href="https://www.instagram.com/jesse.matheus_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jesse-amorim-2309761b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.dio.me/users/jessematheus33" target="_blank"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70"></a> 
  
 </div>
